@@ -1,0 +1,4 @@
+<?
+phpinfo();
+?>
+# code_deploy
